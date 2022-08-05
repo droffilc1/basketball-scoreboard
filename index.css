@@ -1,0 +1,55 @@
+@import url('http://fonts.cdnfonts.com/css/60s-scoreboard');
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #1B244A;
+  color: #fff;
+}
+
+body h1 {
+  text-align: center;
+}
+
+h1 {
+  margin-left: 20px;
+  font-size: 60px;  
+}
+
+h4 {
+  font-family: '60s Scoreboard', sans-serif;
+  font-size: 100px;
+  color: #F94F6D;                                              
+}
+
+button {
+  height: 45px;
+  width: 45px;
+  background: #1B244A;
+  color: #9AABD8;  
+  border-color:#9AABD8;
+  margin-top: 30px;
+  margin-left: 10px;
+  cursor: pointer;
+  
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;  
+}
+
+.scores {
+  background: #080001;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+}
+
+.btn {
+  width: 200px;
+  height: 60px;
+  font-size: 30px;
+  color: #fff;
+}
+
