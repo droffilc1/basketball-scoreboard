@@ -1,4 +1,4 @@
-@import url('http://fonts.cdnfonts.com/css/60s-scoreboard');
+@import url('http://fonts.cdnfonts.com/css/cursed-timer-ulil');
 
 body {
   margin: 0;
@@ -16,10 +16,11 @@ h1 {
   font-size: 60px;  
 }
 
-h4 {
-  font-family: '60s Scoreboard', sans-serif;
+h4 {  
+  font-family: 'Cursed Timer ULiL', sans-serif;                                                
   font-size: 100px;
-  color: #F94F6D;                                              
+  color: #F94F6D; 
+  padding-top: 60px;                                              
 }
 
 button {
@@ -41,7 +42,7 @@ button {
 
 .scores {
   background: #080001;
-  text-align: center;
+  text-align: center;  
   width: 200px;
   height: 200px;
 }
@@ -52,4 +53,10 @@ button {
   font-size: 30px;
   color: #fff;
 }
+
+.highlighter {
+  box-shadow: 0 0 10px #e0b010dd;  
+}
+
+
 
